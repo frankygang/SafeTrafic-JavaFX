@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="standfx">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/standfx/jfoenix.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/standfx/standfx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
